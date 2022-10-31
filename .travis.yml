@@ -4,10 +4,13 @@ node_js:
   - 18
 install:
   - npm install -g codecov
+before_script:
   - npm install
 cache:
   directories:
     - node_modules
+script:
+  - npm run test
 after_success:
   - npm run cover
   - codecov
