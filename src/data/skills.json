@@ -13,5 +13,15 @@
     "id": 3,
     "duration": "2015-01-01",
     "desc": "Laravel, Git, PHPUnit"
+  },
+  {
+    "id": 4,
+    "duration": "2021-09-01",
+    "desc": "Docker, Kubernetes, Helm"
+  },
+  {
+    "id": 5,
+    "duration": "2022-01-01",
+    "desc": "TypeScript, NestJS, React"
   }
 ]

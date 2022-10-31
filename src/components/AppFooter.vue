@@ -1,21 +1,25 @@
 <template>
   <footer>
     <a
-      href="https://github.com/ellllllen"
+      href="https://github.com/slipperthepanda"
       target="_blank"
       title="Visit my Github"
     >
-      <img src="~@/assets/images/github.png" />
+      <img alt="GitHub" src="~@/assets/images/github.png" />
     </a>
     <a
-      href="https://photos.google.com/share/AF1QipO8XyZh5_zenH-SIGZGL_g2wzn1oIsoVBeVKeZCrl_F_ub78VoDBCKskhy4p_T6Bg?key=aXppNmpYVWRjSTAtNThKcDRQVWUzSURLNmgwZ0VB"
+      href="https://www.instagram.com/slipperthepanda/"
       target="_blank"
-      title="Shared Google Photos"
+      title="Instagram"
     >
-      <img src="~@/assets/images/google-photos.png" />
+      <img alt="Instagram" src="~@/assets/images/instagram.png" />
     </a>
-    <a href="https://twitter.com/ellllllen57" target="_blank" title="Tweet me">
-      <img src="~@/assets/images/twitter.png" />
+    <a
+      href="https://twitter.com/slipperthepanda"
+      target="_blank"
+      title="Tweet me"
+    >
+      <img alt="Twitter" src="~@/assets/images/twitter.png" />
     </a>
   </footer>
 </template>

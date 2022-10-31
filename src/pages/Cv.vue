@@ -4,7 +4,7 @@
     <div>
       <h3>Personal Statement</h3>
       In 2010 I finished my degree in Computing gaining a 2:1 with Honours,
-      since then I have been working as a software developer. I have a strong
+      since then I have been working as a Software Developer. I have a strong
       programming foundation and enjoy adapting to new challenges. I am a hard
       worker and love to be part of a team.
     </div>
@@ -16,15 +16,15 @@
           {{ skill.desc }}
         </li>
       </ul>
-      <br/>
+      <br />
       <div class="cv-employ-title">Additional experience with:</div>
       <ul>
         <li>
           AWS (API Gateway, Athena, Cloud9, Cloud Formation, CloudWatch,
           CodeDeploy, DynamoDB, Lamdba, RDS, S3, SNS, SQS)
         </li>
-        <li>Docker, Docker Compose, Vagrant, Serverless, Travis CI, Jenkins</li>
-        <li>NodeJS, VueJS</li>
+        <li>Docker, Docker Compose, Kubernetes, Helm, Travis CI, Jenkins</li>
+        <li>NodeJS, TypeScript, NestJS, React</li>
       </ul>
     </div>
     <div>
