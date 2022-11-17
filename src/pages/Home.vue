@@ -7,14 +7,18 @@
           v-for="homeLink in homeLinks"
       />
     </section>
+    <div class="container">
+      <Activities/>
+    </div>
   </div>
 </template>
 
 <script>
-import NavImage from "../components/NavImage.vue";
+import NavImage from "@/components/NavImage.vue";
+import Activities from "@/components/Activities.vue";
 
 export default {
-  components: {NavImage},
+  components: {NavImage, Activities},
   data() {
     return {
       homeLinks: [

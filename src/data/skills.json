@@ -2,7 +2,7 @@
   {
     "id": 1,
     "duration": "2008-08-01",
-    "desc": "PHP, SQL, HTML, CSS, JavaScript"
+    "desc": "PHP, SQL, HTML, CSS"
   },
   {
     "id": 2,
@@ -16,12 +16,12 @@
   },
   {
     "id": 4,
-    "duration": "2021-09-01",
+    "duration": "2020-01-01",
     "desc": "Docker, Kubernetes, Helm"
   },
   {
     "id": 5,
-    "duration": "2022-01-01",
-    "desc": "TypeScript, NestJS, React"
+    "duration": "2021-09-01",
+    "desc": "NodeJS, TypeScript, NestJS, React"
   }
 ]

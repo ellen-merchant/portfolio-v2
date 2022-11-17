@@ -12,6 +12,7 @@
       <h3>Specialist Skills</h3>
       <ul>
         <li v-bind:key="skill.id" v-for="skill in skills">
+          {{ Math.abs(new Date(Date.now() - new Date(skill.duration).getTime()).getUTCFullYear() - 1970) }} years:
           {{ skill.desc }}
         </li>
       </ul>
@@ -22,8 +23,7 @@
           AWS (API Gateway, Athena, Cloud9, Cloud Formation, CloudWatch,
           CodeDeploy, DynamoDB, Lamdba, RDS, S3, SNS, SQS)
         </li>
-        <li>Docker, Docker Compose, Kubernetes, Helm, Travis CI, Jenkins</li>
-        <li>NodeJS, TypeScript, NestJS, React</li>
+        <li>Docker Compose, Travis CI, Jenkins, GitLab CI/CD</li>
       </ul>
     </div>
     <div>

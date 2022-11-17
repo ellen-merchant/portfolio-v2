@@ -1,19 +1,40 @@
 [
   {
     "id": 1,
-    "name": "Censornet",
+    "name": "Censornet Ltd",
     "location": "Bristol",
     "roles": [
       {
         "id": 1,
         "title": "Software Developer - Web Services",
-        "date": "September 2018 to present"
+        "date": "September 2018 to July 2021"
+      },
+      {
+        "id": 2,
+        "title": "Senior Developer",
+        "date": "July 2021 to present"
       }
     ],
     "content": [
       {
         "id": 11,
-        "desc": ""
+        "desc": "While working at Censornet, I have been a core member of the R&D department, my role comprises of developing and releasing feature enhancements and updates to the primary customer web platform. This involves producing production ready code and working to deadlines, showing I can work under pressure."
+      },
+      {
+        "id": 12,
+        "desc": "Further to this, I became the lead API developer as well as expanding my abilities by engineering diverse products as part of the software as a service (SaaS) platform, demonstrating my determination and hard work."
+      },
+      {
+        "id": 13,
+        "desc": "Following my promotion in July 2021, we began enhancing the team and our mindset, with the intention of more innovation to continue the success of our organisation. We started by improving our development lifecycle with one of the objectives being faster release cycles, which involved myself delving more into DevOps, learning Kubernetes and Helm, establishing my ability to learn new skills and problem solving."
+      },
+      {
+        "id": 14,
+        "desc": "I became a Team Lead in mid 2022, managing software engineers and their workloads, along with answering technical questions and reviewing their code. This displays my leading abilities and technical knowledge."
+      },
+      {
+        "id": 15,
+        "desc": "This evolution has resulted in a change to our technical stack, meaning training in technologies including TypeScript and React, with the mentality of using the best tool for the job. This exhibits my ability to adapt to ever changing technologies and requirements as well as my experience engineering systems."
       }
     ]
   },
@@ -41,7 +62,7 @@
     "content": [
       {
         "id": 11,
-        "desc": "During my time at the company I gained a lot of experience creating high quality public and internal web portals as well as developing backend micro services and RESTful APIs. I have developed various systems while working at the company, including developing new products to sell to our customers and automating in house procedures. I was able to influence high level decisions such as programming techniques and tools and vastly expanding the company data centre infrastructure, showing I am motivated and proactive."
+        "desc": "During my time at the company I gained a lot of experience creating high quality public and internal web portals as well as developing backend micro services and REST APIs. I have developed various systems while working at the company, including developing new products to sell to our customers and automating in house procedures. I was able to influence high level decisions such as programming techniques and tools and vastly expanding the company data centre infrastructure, showing I am motivated and proactive."
       },
       {
         "id": 12,
