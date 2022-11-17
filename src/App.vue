@@ -1,18 +1,18 @@
 <template>
   <div id="app">
-    <AppHeader />
-    <AppNav />
+    <AppHeader/>
+    <AppNav/>
     <div class="outer-container">
-      <router-view />
+      <router-view/>
     </div>
-    <AppFooter />
+    <AppFooter/>
   </div>
 </template>
 
 <script>
-import AppHeader from "@/components/AppHeader.vue";
-import AppNav from "@/components/AppNav.vue";
-import AppFooter from "@/components/AppFooter.vue";
+import AppHeader from "./components/AppHeader.vue";
+import AppNav from "./components/AppNav.vue";
+import AppFooter from "./components/AppFooter.vue";
 
 export default {
   name: "app",
@@ -25,5 +25,5 @@ export default {
 </script>
 
 <style lang="scss">
-@import "@/assets/css/app.scss";
+@import "./assets/css/app.scss";
 </style>

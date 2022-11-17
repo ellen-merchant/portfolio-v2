@@ -5,21 +5,21 @@
       target="_blank"
       title="Visit my Github"
     >
-      <img alt="GitHub" src="~@/assets/images/github.png" />
+      <img alt="GitHub" src="/images/github.png" />
     </a>
     <a
       href="https://www.instagram.com/slipperthepanda/"
       target="_blank"
       title="Instagram"
     >
-      <img alt="Instagram" src="~@/assets/images/instagram.png" />
+      <img alt="Instagram" src="/images/instagram.png" />
     </a>
     <a
       href="https://twitter.com/slipperthepanda"
       target="_blank"
       title="Tweet me"
     >
-      <img alt="Twitter" src="~@/assets/images/twitter.png" />
+      <img alt="Twitter" src="/images/twitter.png" />
     </a>
   </footer>
 </template>

@@ -2,23 +2,19 @@
   <div>
     <section class="home-images">
       <NavImage
-        v-bind:navLink="homeLink"
-        v-bind:key="homeLink.id"
-        v-for="homeLink in homeLinks"
+          v-bind:navLink="homeLink"
+          v-bind:key="homeLink.id"
+          v-for="homeLink in homeLinks"
       />
     </section>
-    <div class="container">
-      <Activities />
-    </div>
   </div>
 </template>
 
 <script>
-import NavImage from "@/components/NavImage.vue";
-import Activities from "@/components/Activities.vue";
+import NavImage from "../components/NavImage.vue";
 
 export default {
-  components: { NavImage, Activities },
+  components: {NavImage},
   data() {
     return {
       homeLinks: [

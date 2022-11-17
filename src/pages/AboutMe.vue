@@ -1,3 +1,15 @@
+<script>
+export default {
+  data() {
+    const workStart = new Date("01/05/2010")
+    const difference = new Date(Date.now() - workStart.getTime())
+    return {
+      experience: Math.abs(difference.getUTCFullYear() - 1970)
+    };
+  }
+};
+</script>
+
 <template>
   <div class="about-me">
     <h2 class="main-title">About Me</h2>
@@ -7,7 +19,7 @@
     and have experience in developing using the
     <a href="https://laravel.com">Laravel</a>
     framework. I have been employed as a full time Developer for over
-    {{ moment().diff(moment([2010, 5, 1]), "years") }} years.
+    {{ experience }} years.
     <br />
     <br />My hobbies include walking, gaming, film and TV, music.
     <br />

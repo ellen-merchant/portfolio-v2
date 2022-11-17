@@ -1,8 +1,35 @@
-# Portfolio V2
+# vue-project
 
-[![codecov](https://codecov.io/gh/ellllllen/portfolio-v2/branch/master/graph/badge.svg)](https://codecov.io/gh/ellllllen/portfolio-v2)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0c6de2ba-cf98-4c59-9a76-ddea480c8c25/deploy-status)](https://app.netlify.com/sites/ellen-portfolio/deploys)
+This template should help get you started developing with Vue 3 in Vite.
 
-My portfolio! This is version 2, built using VueJS. Deployed using Netlify.
+## Recommended IDE Setup
 
-View it here: https://ellen-portfolio.netlify.com/
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```

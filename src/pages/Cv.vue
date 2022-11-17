@@ -12,7 +12,6 @@
       <h3>Specialist Skills</h3>
       <ul>
         <li v-bind:key="skill.id" v-for="skill in skills">
-          {{ moment().diff(moment(skill.duration), "years") }} years:
           {{ skill.desc }}
         </li>
       </ul>
