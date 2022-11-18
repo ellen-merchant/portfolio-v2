@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "title": "Travis CI (Part 1)",
+    "title": "Travis CI",
     "description": "Implemented Travis CI on my personal website.",
     "startDate": "2018-10-11",
     "titleLink": "https://travis-ci.com/slipperthepanda/personal-website",
@@ -19,15 +19,6 @@
   },
   {
     "id": 3,
-    "title": "Travis CI (Part 2)",
-    "description": "Managed to implement Browser tests using Travis CI on my personal website. Also added Travis CI to my other repositories.",
-    "startDate": "2018-11-01",
-    "titleLink": "https://travis-ci.com/slipperthepanda",
-    "display": true,
-    "external": true
-  },
-  {
-    "id": 4,
     "title": "Added Chatbot to Personal Website",
     "description": "Using the BotMan plugin I created a chatbot that tells my visitors some jokes.",
     "startDate": "2018-11-16",
@@ -36,7 +27,7 @@
     "external": false
   },
   {
-    "id": 5,
+    "id": 4,
     "title": "VueJS Portfolio",
     "description": "I have rewritten my personal website. It is now a static VueJS multi-page app.",
     "startDate": "2019-04-19",
@@ -45,12 +36,39 @@
     "external": false
   },
   {
-    "id": 6,
-    "title": "VueJS Testing",
-    "description": "Following a Laracasts tutorial on how to test VueJS apps: https://laracasts.com/series/testing-vue",
-    "startDate": "2019-06-13",
-    "titleLink": "https://github.com/slipperthepanda/testing-vue",
+    "id": 5,
+    "title": "Kubernetes and Helm",
+    "description": "Learnt how to create helm charts as infrastructure as code, and deploy them using Kubernetes.",
+    "startDate": "2021-06-01",
+    "titleLink": "",
     "display": true,
-    "external": true
+    "external": false
+  },
+  {
+    "id": 6,
+    "title": "TypeScript Udemy Course",
+    "description": "Udemy course, TypeScript: The Complete Developer's Guide",
+    "startDate": "2022-04-01",
+    "titleLink": "",
+    "display": true,
+    "external": false
+  },
+  {
+    "id": 7,
+    "title": "NestJS Udemy Course",
+    "description": "Udemy course, NestJS: The Complete Developer's Guide",
+    "startDate": "2022-04-01",
+    "titleLink": "",
+    "display": true,
+    "external": false
+  },
+  {
+    "id": 8,
+    "title": "React and TypeScript Udemy Course",
+    "description": "Udemy course, React and TypeScript: Build a Portfolio Project",
+    "startDate": "2022-04-01",
+    "titleLink": "",
+    "display": true,
+    "external": false
   }
 ]
