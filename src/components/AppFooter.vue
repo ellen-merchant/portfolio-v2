@@ -1,7 +1,7 @@
 <template>
   <footer>
     <a
-      href="https://github.com/slipperthepanda"
+      href="https://github.com/ellen-merchant"
       target="_blank"
       title="Visit my Github"
     >
