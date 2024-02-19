@@ -61,14 +61,5 @@
     "titleLink": "",
     "display": true,
     "external": false
-  },
-  {
-    "id": 8,
-    "title": "React and TypeScript Udemy Course",
-    "description": "Udemy course, React and TypeScript: Build a Portfolio Project",
-    "startDate": "2022-04-01",
-    "titleLink": "",
-    "display": true,
-    "external": false
   }
 ]
