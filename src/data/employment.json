@@ -18,23 +18,19 @@
     "content": [
       {
         "id": 11,
-        "desc": "While working at Censornet, I have been a core member of the R&D department, my role comprises of developing and releasing feature enhancements and updates to the primary customer web platform. This involves producing production ready code and working to deadlines, showing I can work under pressure."
+        "desc": "While working at Censornet, I have been a core member of the R&D department, my role comprises of developing feature enhancements and updates to the multi-tenant software as a service (SaaS) customer platform, more specifically the backend REST APIs and microservices. The API communicates with multiple databases including our core PostreSQL database and third-party APIs and services. This involves working alongside the product manager, front end developers and QA engineers to produce tested, production code and working to tight deadlines. I have been developing and maintaining the backend since I started at the company and in 2020 became wholly responsible for all our PHP/Laravel projects, innovating the way the application is tested using tools like PHPUnit and continuous integration (CI)."
       },
       {
         "id": 12,
-        "desc": "Further to this, I became the lead API developer as well as expanding my abilities by engineering diverse products as part of the software as a service (SaaS) platform, demonstrating my determination and hard work."
+        "desc": "Following my promotion in July 2021, I began improving our development lifecycle by integrating continuous deployment, which as a result would provide faster release cycles. This involved delving more into DevOps by learning Kubernetes and Helm."
       },
       {
         "id": 13,
-        "desc": "Following my promotion in July 2021, we began enhancing the team and our mindset, with the intention of more innovation to continue the success of our organisation. We started by improving our development lifecycle with one of the objectives being faster release cycles, which involved myself delving more into DevOps, learning Kubernetes and Helm, establishing my ability to learn new skills and problem solving."
+        "desc": "We then embarked on updating the current portal and backend, using the existing platform as a blueprint. Along with the frontend lead, we made some key decisions including the use of TypeScript with the NestJS and React frameworks. Drawing on my experience using other frameworks like Laravel, I implemented multiple APIs, microservices and standalone apps using utilities like Jest to produce a well-tested backend platform. After providing foundations for other developers to learn and contribute to, I continued to implement larger features including using OIDC to connect to multiple identity providers, producing internal libraries for shared code and access controls."
       },
       {
         "id": 14,
-        "desc": "I became a Team Lead in mid 2022, managing software engineers and their workloads, along with answering technical questions and reviewing their code. This displays my leading abilities and technical knowledge."
-      },
-      {
-        "id": 15,
-        "desc": "This evolution has resulted in a change to our technical stack, meaning training in technologies including TypeScript and React, with the mentality of using the best tool for the job. This exhibits my ability to adapt to ever changing technologies and requirements as well as my experience engineering systems."
+        "desc": "Eager to expand my skills, I also started learning React and contributed to our internal component library and web application."
       }
     ]
   },
